@@ -1,0 +1,12 @@
+*.class
+project/project/target/*
+project/target/*
+target/*
+.classpath
+.settings
+.project
+*~
+logs/*
+twitter4j.properties
+.target/*
+.cache
